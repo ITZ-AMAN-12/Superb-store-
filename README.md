@@ -1,2 +1,2 @@
 # Superb-store-
-Superb stor
+Superb store
